@@ -1,0 +1,36 @@
+{
+  "name": "freeze-task",
+  "version": "1.0.0-beta.0",
+  "description": "Create tasks that compute only once.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm-run-all test:*",
+    "test:unit": "ava",
+    "test:lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwoudenberg/freeze-task.git"
+  },
+  "author": "Jasper Woudenberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwoudenberg/freeze-task/issues"
+  },
+  "homepage": "https://github.com/jwoudenberg/freeze-task#readme",
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "babel-eslint": "^6.0.4",
+    "data.task": "^3.1.0",
+    "fork-future": "^0.1.0",
+    "npm-run-all": "^2.1.1",
+    "standard": "^7.1.2",
+    "xyz": "^0.5.0"
+  }
+}
