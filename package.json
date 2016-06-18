@@ -1,6 +1,6 @@
 {
   "name": "freeze-task",
-  "version": "1.0.0-beta.0",
+  "version": "1.0.0",
   "description": "Create tasks that compute only once.",
   "main": "index.js",
   "directories": {
