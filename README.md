@@ -1,7 +1,5 @@
 # Freeze Task
-[![NPM version](http://img.shields.io/npm/v/freeze-task.svg?style=flat-square)](https://www.npmjs.com/package/freeze-task)
-[![Build status](http://img.shields.io/travis/jwoudenberg/freeze-task/master.svg?style=flat-square)](https://travis-ci.org/jwoudenberg/freeze-task)
-[![Dependencies](https://img.shields.io/david/jwoudenberg/freeze-task.svg?style=flat-square)](https://david-dm.org/jwoudenberg/freeze-task)
+[![NPM version](http://img.shields.io/npm/v/freeze-task.svg?style=flat-square)](https://www.npmjs.com/package/freeze-task) [![Build status](http://img.shields.io/travis/jwoudenberg/freeze-task/master.svg?style=flat-square)](https://travis-ci.org/jwoudenberg/freeze-task) [![Dependencies](https://img.shields.io/david/jwoudenberg/freeze-task.svg?style=flat-square)](https://david-dm.org/jwoudenberg/freeze-task)
 
 Ensure a tasks computation is executed at most once, returning the same result each time it is forked.
 
