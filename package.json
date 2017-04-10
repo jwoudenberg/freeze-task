@@ -25,7 +25,7 @@
     "parser": "babel-eslint"
   },
   "devDependencies": {
-    "ava": "^0.18.0",
+    "ava": "^0.19.1",
     "babel-eslint": "^7.1.0",
     "data.task": "^3.1.0",
     "fork-future": "^0.1.0",
